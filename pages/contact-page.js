@@ -1,7 +1,7 @@
 import Layout from "../components/Layout"
 import Image from 'next/image'
 
-export default function  () {
+export default function Component () {
   return (
     <Layout title="Contact">
         <div className="bg-white text-center shadow-xl p-8 w-80 rounded">
